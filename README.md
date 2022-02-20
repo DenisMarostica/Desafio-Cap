@@ -1,6 +1,6 @@
 Foi utiliado  a IDE  PyCharm e  a Liguagem Python
 
-Primeira questão, deve entarm com um número 
+Primeira questão, ao digitar um número
 O programa vai retorna  uma escada  com
 a base e a altura com a mesma quantidade  asteriscos
 de forma decrescent
